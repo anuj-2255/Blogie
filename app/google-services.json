@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "22314513278",
+    "firebase_url": "https://blog-27efa.firebaseio.com",
+    "project_id": "blog-27efa",
+    "storage_bucket": "blog-27efa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22314513278:android:0af2a48c8a1cf15c",
+        "android_client_info": {
+          "package_name": "com.worldtechq.blog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22314513278-go1bsvf8vlo2l21cqfol9li4lkgif1nf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEZYWkWizSLmBOLzJsoOdVkSku722RmRA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

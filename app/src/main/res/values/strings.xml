@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Blogie</string>
+    <string name="login_btn">Login</string>
+    <string name="tv_pass">Password</string>
+    <string name="tv_email">Email</string>
+    <string name="tv_reg">Register</string>
+    <string name="tv_confirm_password">Confirm Password</string>
+    <string name="tv_name">Name</string>
+    <string name="sample_text">Name</string>
+</resources>
